@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Giraffe/Photos/Giraffe09.imageset/Giraffe09.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    93.16129032258064, 
+                    36.41935483870968
+                ], 
+                [
+                    596.3870967741935, 
+                    404.9677419354839
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 428, 
+    "imageWidth": 640
+}

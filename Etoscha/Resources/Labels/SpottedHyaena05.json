@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/SpottedHyaena/Photos/SpottedHyaena05.imageset/SpottedHyaena05.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    39.097744360902254, 
+                    61.744360902255636
+                ], 
+                [
+                    563.1578947368421, 
+                    447.45864661654133
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    55.639097744360896, 
+                    88.81203007518796
+                ], 
+                [
+                    224.81203007518795, 
+                    263.24812030075185
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 450, 
+    "imageWidth": 600
+}

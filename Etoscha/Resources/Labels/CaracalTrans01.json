@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Caracal/Photos/CaracalTrans01.imageset/CaracalTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    388.8, 
+                    30.0
+                ], 
+                [
+                    597.6, 
+                    230.0
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 551, 
+    "imageWidth": 600
+}

@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/WhiteRhino/Photos/WhiteRhino03.imageset/WhiteRhino03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    125.56390977443608, 
+                    71.33082706766916
+                ], 
+                [
+                    318.04511278195486, 
+                    345.0150375939849
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    87.96992481203007, 
+                    50.27819548872179
+                ], 
+                [
+                    532.3308270676691, 
+                    364.56390977443607
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

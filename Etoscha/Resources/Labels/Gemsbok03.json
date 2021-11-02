@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Gemsbok/Photos/GemsbokMale.imageset/Gemsbok03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    72.18045112781955, 
+                    3.0977443609022544
+                ], 
+                [
+                    506.0, 
+                    449.0
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    242.1052631578947, 
+                    239.93984962406012
+                ], 
+                [
+                    84.96240601503759, 
+                    6.857142857142854
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 450, 
+    "imageWidth": 600
+}

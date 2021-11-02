@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CapePorcupine/Photos/CapePorcupineTrans01.imageset/CapePorcupineTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    45.11278195488722, 
+                    170.33082706766916
+                ], 
+                [
+                    231.57894736842104, 
+                    374.09022556390977
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 399, 
+    "imageWidth": 600
+}

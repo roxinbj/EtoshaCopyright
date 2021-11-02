@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Suricate/Photos/Suricate04.imageset/Suricate04.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    387.2180451127819, 
+                    179.85714285714283
+                ], 
+                [
+                    497.7443609022556, 
+                    295.64661654135335
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

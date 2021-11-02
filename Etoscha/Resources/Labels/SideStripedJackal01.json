@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/SideStripedJackal/Photos/SideStripedJackal01.imageset/SideStripedJackal01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    128.57142857142856, 
+                    36.744360902255636
+                ], 
+                [
+                    528.5714285714286, 
+                    348.77443609022555
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    142.85714285714286, 
+                    45.01503759398496
+                ], 
+                [
+                    267.6691729323308, 
+                    161.55639097744358
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

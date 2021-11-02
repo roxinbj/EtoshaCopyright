@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Giraffe/Photos/Giraffe03.imageset/Giraffe03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    14.766233766233768, 
+                    30.16883116883117
+                ], 
+                [
+                    226.45454545454544, 
+                    256.1428571428571
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 900, 
+    "imageWidth": 600
+}

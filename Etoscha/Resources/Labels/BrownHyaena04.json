@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/BrownHyaena/Photos/BrownHyaena04.imageset/BrownHyaena04.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    93.96774193548387, 
+                    42.58064516129032
+                ], 
+                [
+                    538.3225806451613, 
+                    377.258064516129
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    119.7741935483871, 
+                    54.67741935483872
+                ], 
+                [
+                    278.64516129032256, 
+                    223.22580645161293
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 640
+}

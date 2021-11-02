@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Gemsbok/Photos/Gemsbok01.imageset/Gemsbok01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    244.36090225563908, 
+                    64.06766917293233
+                ], 
+                [
+                    503.7593984962406, 
+                    355.796992481203
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

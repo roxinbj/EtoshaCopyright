@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/GroundPangolin/Photos/GroundPangolin03.imageset/GroundPangolin03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    147.36842105263156, 
+                    111.54135338345864
+                ], 
+                [
+                    366.16541353383457, 
+                    285.2255639097744
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    109.02255639097744, 
+                    2.5187969924811995
+                ], 
+                [
+                    596, 
+                    311
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 312, 
+    "imageWidth": 600
+}

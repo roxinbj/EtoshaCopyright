@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Giraffe/Photos/Giraffe05.imageset/Giraffe05.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    77.9473684210526, 
+                    121.3157894736842
+                ], 
+                [
+                    596.3684210526316, 
+                    638.421052631579
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 905, 
+    "imageWidth": 600
+}

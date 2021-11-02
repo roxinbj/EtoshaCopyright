@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BandedMongoose/Photos/BandedMongoose01.imageset/BandedMongoose01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    487.03418803418805, 
+                    3.2991452991452945
+                ], 
+                [
+                    596.4358974358975, 
+                    108.42735042735043
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 310, 
+    "imageWidth": 600
+}

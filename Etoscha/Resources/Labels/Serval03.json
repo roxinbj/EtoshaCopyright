@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Serval/Photos/Serval03.imageset/Serval03.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    48.1203007518797, 
+                    43.30075187969925
+                ], 
+                [
+                    501.5037593984962, 
+                    351.57142857142856
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    372.18045112781954, 
+                    52.32330827067668
+                ], 
+                [
+                    492.4812030075188, 
+                    171.8721804511278
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 369, 
+    "imageWidth": 600
+}

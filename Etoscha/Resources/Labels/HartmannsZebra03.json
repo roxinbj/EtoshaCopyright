@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/HartmannsZebra/Photos/HartmannsZebra03.imageset/HartmannsZebra03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    100.0, 
+                    16.443609022556387
+                ], 
+                [
+                    563.1578947368421, 
+                    391.6315789473684
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    115.0375939849624, 
+                    23.210526315789465
+                ], 
+                [
+                    274.4360902255639, 
+                    211.93233082706763
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 401, 
+    "imageWidth": 600
+}

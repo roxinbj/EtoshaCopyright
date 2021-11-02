@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BandedMongoose/Photos/BandedMongooseTrans02.imageset/BandedMongooseTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    469.2564102564103, 
+                    6.71794871794873
+                ], 
+                [
+                    599, 
+                    121
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 310, 
+    "imageWidth": 600
+}

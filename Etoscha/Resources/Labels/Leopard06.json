@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Leopard/Photos/Leopard06.imageset/Leopard06.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    61.16666666666667, 
+                    4.166666666666667
+                ], 
+                [
+                    510.33333333333337, 
+                    575.0
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    79.5, 
+                    119.16666666666667
+                ], 
+                [
+                    335.33333333333337, 
+                    345.0
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 578, 
+    "imageWidth": 600
+}

@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/SaHedgehog/Photos/SaHedgehog01.imageset/SaHedgehogTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    42.857142857142854, 
+                    79.16541353383457
+                ], 
+                [
+                    274.4360902255639, 
+                    321.2706766917293
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

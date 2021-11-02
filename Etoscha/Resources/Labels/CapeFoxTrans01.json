@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CapeFox/Photos/CapeFoxTrans01.imageset/CapeFoxTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    102.25563909774435, 
+                    4.616541353383454
+                ], 
+                [
+                    270.6766917293233, 
+                    183.56390977443607
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 438, 
+    "imageWidth": 600
+}

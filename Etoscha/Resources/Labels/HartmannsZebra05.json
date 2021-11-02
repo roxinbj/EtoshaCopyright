@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/HartmannsZebra/Photos/HartmannsZebra05.imageset/HartmannsZebra05.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    6.049382716049365, 
+                    104.87654320987653
+                ], 
+                [
+                    565, 
+                    813
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 849, 
+    "imageWidth": 566
+}

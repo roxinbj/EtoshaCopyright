@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/RockDassie/Photos/RockDassie05.imageset/RockDassieTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    110.04166666666669, 
+                    39.75
+                ], 
+                [
+                    459.0, 
+                    332.45833333333337
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 717, 
+    "imageWidth": 600
+}

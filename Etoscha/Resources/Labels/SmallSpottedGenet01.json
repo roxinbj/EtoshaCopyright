@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/SmallSpottedGenet/Photos/SmallSpottedGenet01.imageset/SmallSpottedGenet01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    146.61654135338344, 
+                    78.09774436090225
+                ], 
+                [
+                    400.0, 
+                    271.33082706766913
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

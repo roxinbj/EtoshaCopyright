@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/GreaterKudu/Photos/GreaterKudu06.imageset/GreaterKudu06.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    159.6880733944954, 
+                    8.091743119266054
+                ], 
+                [
+                    525.743119266055, 
+                    353.96330275229354
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 633, 
+    "imageWidth": 600
+}

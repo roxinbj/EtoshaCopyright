@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/TreeSquirrel/Photos/TreeSquirrel02.imageset/TreeSquirrel02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    96.58441558441558, 
+                    58.74025974025974
+                ], 
+                [
+                    508.27272727272725, 
+                    878.2207792207791
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 900, 
+    "imageWidth": 600
+}

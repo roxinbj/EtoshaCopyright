@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/DwarfMongoose/Photos/DwarfMongoose04.imageset/DwarfMongooseTrans03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    100.0, 
+                    11.496240601503757
+                ], 
+                [
+                    556.390977443609, 
+                    319.76691729323306
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

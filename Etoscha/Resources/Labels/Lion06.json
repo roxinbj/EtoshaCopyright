@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Lion/Photos/Lion06.imageset/Lion06.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    164.66165413533832, 
+                    28.473684210526315
+                ], 
+                [
+                    491.72932330827064, 
+                    357.04511278195486
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

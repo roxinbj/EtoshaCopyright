@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Caracal/Photos/Caracal07.imageset/Caracal07.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    120.30075187969925, 
+                    19.451127819548873
+                ], 
+                [
+                    367.6691729323308, 
+                    232.98496240601503
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    84.96240601503759, 
+                    11.93233082706766
+                ], 
+                [
+                    594, 
+                    399
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

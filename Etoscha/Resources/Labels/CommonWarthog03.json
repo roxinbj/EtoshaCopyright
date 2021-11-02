@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/CommonWarthog/Photos/CommonWarthog03.imageset/CommonWarthog03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    109.02255639097744, 
+                    37.0
+                ], 
+                [
+                    526.3157894736842, 
+                    338.50375939849624
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    257.89473684210526, 
+                    111.4360902255639
+                ], 
+                [
+                    382.70676691729324, 
+                    245.2706766917293
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

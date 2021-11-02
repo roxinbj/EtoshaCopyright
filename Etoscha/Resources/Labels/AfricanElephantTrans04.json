@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanElephant/Photos/AfricanElephant010.imageset/AfricanElephantTrans04.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    38.10344827586208, 
+                    58.34482758620693
+                ], 
+                [
+                    455.3448275862069, 
+                    456.62068965517244
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    36.37931034482759, 
+                    43.689655172413794
+                ], 
+                [
+                    481.2068965517242, 
+                    566.1034482758621
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 596, 
+    "imageWidth": 498
+}

@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CommonDuiker/Photos/CommonDuiker03.imageset/CommonDuiker03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    161.65413533834587, 
+                    46.774436090225564
+                ], 
+                [
+                    391.72932330827064, 
+                    368.57894736842104
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

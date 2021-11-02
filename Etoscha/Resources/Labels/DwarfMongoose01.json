@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/DwarfMongoose/Photos/DwarfMongoose01.imageset/DwarfMongoose01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    40.6015037593985, 
+                    61.70676691729322
+                ], 
+                [
+                    540.6015037593985, 
+                    440.65413533834584
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    317.29323308270676, 
+                    79.75187969924812
+                ], 
+                [
+                    500.0, 
+                    261.70676691729324
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 480, 
+    "imageWidth": 600
+}

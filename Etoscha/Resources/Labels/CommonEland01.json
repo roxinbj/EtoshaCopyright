@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CommonEland/Photos/CommonEland01.imageset/CommonEland01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    14.285714285714285, 
+                    82.60902255639098
+                ], 
+                [
+                    324.0601503759398, 
+                    326.96992481203006
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

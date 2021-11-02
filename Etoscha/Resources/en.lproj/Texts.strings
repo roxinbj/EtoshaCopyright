@@ -1,0 +1,206 @@
+/* 
+  Texts.strings
+  Etoscha
+
+  Created by Björn Roxin on 20.04.21.
+  
+*/
+
+"HomeView_welcomeHeading" = "Welcome to the \n Etosha App!";
+"HomeView_welcomeSubHeading" = "Check it out";
+"HomeView_button" = "Home";
+"HomeView_mammals" = "Mammals guide";
+"HomeView_sights" = "My sightings";
+"HomeView_map" = "Etosha map";
+
+"TabItem_home" = "Home";
+"TabItem_animals" = "Mammals";
+"TabItem_more" = "More";
+
+"MammalsView_heading" = "Mammals";
+"MammalsView_button" = "Mammals";
+
+"AccommodationView_heading" = "Camps in Etosha";
+"AccommodationView_button" = "Accommodation";
+
+"MapView_heading" = "";
+"MapView_button" = "Map";
+
+"ContactNumberView_heading" = "Contact numbers";
+"ContactNumberView_button" = "Contact numbers";
+"ContactNumberView_call" = "Call";
+"ContactNumberView_police" = "Police";
+
+"MySightingsView_heading" = "My sightings";
+"MySightingsView_button" = "My sightings";
+"MySightingsView_resetHeading" = "Reset all sightings";
+"MySightingsView_resetMessage" = "Do you want to reset all your sightings and start a new tour?";
+"MySightingsView_resetCancel" = "Cancel";
+"MySightingsView_resetConfirm" = "Reset";
+"MySightingsView_onboardingTitle" = "How to use your sighting album";
+"MySightingsView_onboardingMessage" = "Spottet a new animal? -> Tap on it once to add it to your album or to remove it again\nTo learn more about the animal -> Double tap on the animal or hold the tap in for a few seconds\nTo renew your animal sightings list -> Tap the reset button in the top right corner";
+"MySightingsView_onboardingOk" = "Ok thanks";
+"MySightingsView_onboardingRepeat" = "Show again next time";
+
+
+"AboutEtoshaView_heading" = "About Etosha";
+"AboutEtoshaView_button" = "About Etosha";
+"AboutEtoshaView_topInfo" = "Etosha National Park was proclaimed a game reserve in 1907 and covers an area of 22 270 km² (roughly half the size of Switzerland).";
+"AboutEtoshaView_bottomInfo" = "The park was named after its unique salt pan, the area of which is located almost entirely within the park. In Oshivambo, ‘Etosha’ means ‘great white place’. \n\nAfter a good rainy season, it temporarily transforms into a shallow lagoon. \n Did you know that the Etosha salt pan is so large that it can be seen from space?";
+
+"AboutUs_heading" = "About us";
+"AboutUs_intro" = "Thank you for supporting 100% Namibian product development by Termite Software. \n\nA big thank you goes to Projects & Promotions who provided the Etosha map as well as information and images to all animals to us.";
+"AboutUs_conceptHeading" = "Our Etosha App concept";
+"AboutUs_conceptText" = "We wanted to create a product which benefits:";
+"AboutUs_aimHeading" = "Our aim";
+"AboutUs_aimText" = "We plan to develop a database to which all your sightings will be saved to. These statistics will then only be used in cooperation with wildlife conservation projects for research and animal protection.";
+"AboutUs_endText" = "You will get notified which animals have been seen last and thus we hope to increase the chance you spotting your favorite animal. But dont worry, threatened animal information will not be shared. Animal welfare has highest priority.";
+
+"WelcomeView_title" = "Welcome!";
+"WelcomeView_greating" = "Welcome to the Etosha National Park and to your digital Etosha guide!";
+"WelcomeView_subheading" = "What can you expect?";
+"WelcomeView_question1" = "You find yourself relaxing in front of the Okaukuejo waterhole, observing a herd of elephants and suddenly wonder, “How many litres of water can an elephant’s trunk hold?”";
+"WelcomeView_answer1" = "You’ll find your answer under the ‘Elephant’ category in our mammals section.";
+"WelcomeView_question2" = "You’re enjoying a lazy braai while planning the next day’s drive through the park, when you realise that you have forgotten the gate’s opening time for tomorrow morning.";
+"WelcomeView_answer2" = "In our ‘Gate times’ section you’ll find exactly when you can enter and exit the park";
+"WelcomeView_question3" = "Want to take a look at which animals you’ve already spotted?";
+"WelcomeView_answer3" = "Check out your ‘My sightings’ album for the full list";
+"WelcomeView_question4" = "Oh no, your car has a flat tire and there’s no internet connectivity to Google the nearest tire service or the reception’s phone number!";
+"WelcomeView_answer4" = "Find the right details in the app’s contact number section";
+"WelcomeView_end" = "These are just four of the many provided app features. Dive in and explore more on your own...";
+
+"MammalsFacts_buttonText" = "Facts";
+"MammalsFacts_funFactHeading" = "Fun facts";
+"MammalsFacts_etoshaSpecificHeading" = "Etosha specific facts";
+"MammalsFacts_additionalFactHeading" = "How do the animals communicate amongst each other?";
+"MammalsFacts_conservationHeading" = "Conservation status";
+"MammalsFacts_etoshaSpecificHeading" = "Etosha specific info";
+
+"MammalsSize_buttonText" = "Footprint";
+"MammalsSize_footprintHeading" = "Footprint";
+"MammalsSize_sizeHeading" = "Size compared to humans";
+
+"MammalsBehavior_buttonText" = "Behaviour";
+"MammalsBehavior_offspringHeading" = "Offspring";
+
+"MammalsAppearance_buttonText" = "Appearance";
+"MammalsAppearance_female" = "Female";
+"MammalsAppearance_male" = "Male";
+"MammalsAppearance_genderDiffHeading" = "Gender differences";
+
+"MammalsHabitat_buttonText" = "Occurrence";
+"MammalsHabitat_iconHeading" = "Often found in these area types";
+"MammalsHabitat_habitatHeading" = "Habitat in Namibia";
+
+"MammalDietView_buttonText" = "Diet";
+"MammalDietView_predatorHeading" = "Who preys on me?";
+
+"GameDriveHints_title" = "Game Drive Hints";
+"GameDriveHints_hintTitles" = "Its all about timing & Less is more & Calm down & Think one step ahead";
+"GameDriveHints_hints" = "Early mornings and evenings are the best viewing and photographic times. Rather spend the hot midday times at the pool. &Plan less waterholes and rather spend more time waiting at one. You will be surprised how many animals will come to you. &The speedlimit is 60kph but that is sometimes still too fast to spot a surprising lion sleeping under a tree. &You need to rush to be back before the gate closes and suddenly see a leopard, what do you do? Be wiser and plan enough time so that you dont need to rush and enjoy your leopard to the fullest.";
+
+"CampsView_facilities" = "Facilities";
+"CampsView_accommodation" = "Accommodation";
+
+"Okaukuejo_Info" = "From the tower in Okaukuejo you have a spectectular view over wide grass plains. Early birds will enjoy a sunrise from to the tower. The Okaukuejo waterhole is famous for its sightings. During the day you can observe great herds of antelopes and at night-time you have a good chance to see rhinos or lions. Listen carfully and you will identify the lions roar from far away. At Okaukejo its worth visiting the Etosha Ecological Institue and its museum.";
+"Okaukuejo_Accommodations" = "5 Premier Waterhole Chalets •30 Waterhole Chalet Double Room•2 Family Chalets (2 rooms, 4 beds) with braai •20 Bush Chalets (2 beds) with braai •45 Double Rooms •2 Disabled access Chalets (2 beds) •37 Campsites (max 8)";
+"Halali_Info" = "Did you know that Halali is a German bugle call which is blown to signalize the end of a hunt? The waterhole at Halali is very special - you have great top-view onto the waterhole while you relay under sharded Moringa trees. If you are camping at Halali, be careful because during the night you might observe the scrolling Honey badgers meandering through your camp. Hide your food if you want to keep it.";
+"Halali_Accommodations" = "40 Double Rooms •5 Honeymoons with Jacuzzi•4 Disabled Rooms •10 Bush Chalets (2 Bed Rooms with Braai Facilities) •10 Bush Chalets (1 Bed Room with Braai Facilities) •2 Family Chalets (2 Bed Rooms with Braai Facilities)•58 Campsites with Braai Facilities, Electricity and Water (max 8) •5 Ablution Blocks with Disabilities Access without Laundry Area and Small Kitchen •2 Ablution Blocks with Disabilities Access with Laundry Area and Small Kitchen";
+"Namutoni_Info" = "The fort you see today was rebuild in 1956 according to its original fort from the German colony (build 1902). The fort is now a national monument and its museum is a visit worth. Did you know that 'Namutoni' means 'elevated place' in Oshindonga, a language of the Owambo family.";
+"Namutoni_Accommodations" = "24 Double Rooms •20 Bush Chalets •25 Campsites";
+"Olifantsrus_Info" = "Olifantsrus translated means 'the place where Elephants rest'. The camp Olifantsrus is an old elephant abattoir. Between 1983 and 1985 a total of 525 elefants where culled in Olifantsrus to prevent habitat degragation from a rising elefant population (more than 3000 elefants). More information can be found at the Olifantsrus Information Center.\n\nAt Olifantsrus you do not only find dish-washing facilities but also a shared fridge which can be used by campers.";
+"Olifantsrus_Accommodations" = "10 Campsites (max 8)";
+"Onkoshi_Info" = "This camp gives you an astonishing view onto the majestic etosha salt pan. During the rainy season flamingos will come and visit you here. Onkoshi offeres spectectular sunrise and sunset opportunities, perfect for a romantic date with your partner. Electric power is only available during 06:00-10:00 and again from 17:00-22:00.";
+"Onkoshi_Accommodations" = "14 Chalets •1 Honeymoon Chalet";
+"Dolomite_Info" = "Do you want to escape mainstream tourism? Dolomite camp is the right camp for you. Its located at the previously restricted area at the western part of the Etosha National Park. Black and White Rhino sightings are often sighted here. The dolomite formations in that area give the camp its name.";
+"Dolomite_Accommodations" = "3 Deluxe Chalets with Jacuzzi •17 Bush Chalets";
+
+"GateTimes_Title" = "Gate times";
+"GateTimes_AlertHeading" = "Times don’t necessarily change daily";
+"GateTimes_AlertText" = "The gate times change every few days only and are set according to sunrise and sunset, so it can likely happen that the times for today and tomorrow are the same.";
+"GateTimes_InfoText" = "Please respect the gate times and make your way out of the park on time You can expect penalties if you breach the closing time.";
+"GateTimes_AlertOkButton" = "Got it thanks";
+"GateTimes_AlertRepeatButton" = "Remind me again";
+"GateTimes_TodayButton" = "Today";
+"GateTimes_TomorrowButton" = "Tomorrow";
+"GateTimes_ClosingTime" = "Closing time";
+"GateTimes_OpeningTime" = "Opening time";
+
+"FieldNotes_Title" = "Your field notes";
+"FieldNotes_edit" = "Edit";
+"FieldNotes_delete" = "Delete";
+"FieldNotes_add" = "Add";
+"FieldNotes_done" = "Done";
+"FieldNotes_cancel" = "Cancel";
+"FieldNotes_editHeading" = "Edit field note";
+"FieldNotes_addHeading" = "Add field note";
+"FieldNotes_editMessage" = "What did you observe?";
+"FieldNotes_addMessage" = "What did you observe?";
+"FieldNotes_headingPlaceholder" = "Heading";
+"FieldNotes_textPlaceholder" = "Notes";
+
+"InfoView_title" = "More info";
+"InfoView_hintsTitle" = "Tips";
+"InfoView_fieldNotesTitle" = "Your field notes";
+"InfoView_callHelpTitle" = "Contact numbers";
+"InfoView_gateTimesTitle" = "Gate times";
+"InfoView_accommodationTitle" = "Rest camps";
+"InfoView_aboutEtoshaTitle" = "About Etosha";
+"InfoView_aboutUsTitle" = "About us";
+
+"Call" = "Call";
+"Book" = "Book";
+"Map" = "Show on map";
+
+"OnboardingButtonDone" = "Enjoy!";
+"OnboardingButtonNext" = "Continue";
+"Onboarding1_TitleBold" = "Welcome!";
+"Onboarding1_TitleNormal" = "\nLets walk you through the app";
+"Onboarding1_1Bold" = "Field guide";
+"Onboarding1_1Normal" = " for mammals";
+"Onboarding1_2Bold" = "seen animals";
+"Onboarding1_2Normal" = "An album of your ";
+"Onboarding1_3Bold" = "Etosha map";
+"Onboarding1_3Normal" = " for orientation";
+
+"Onboarding2_TitleBold" = "Mammals guide";
+"Onboarding2_TitleNormal" = "\nFind information for each mammal in Etosha";
+"Onboarding2_11Bold" = "Add/remove ";
+"Onboarding2_11Normal" = " to/from sightings \n\n or \n\n ";
+"Onboarding2_12Bold" = "Double click";
+"Onboarding2_12Normal" = " on image";
+"Onboarding2_2Bold" = "Swipe";
+"Onboarding2_2Normal" = " for next image";
+"Onboarding2_3Bold" = "More infos";
+"Onboarding2_3Normal" = " on animal";
+
+"Onboarding3_TitleBold" = "Album of your seen mammals";
+"Onboarding3_TitleNormal" = "\nFill your album with the new animals that you spot";
+"Onboarding3_1Bold" = "Reset";
+"Onboarding3_1Normal" = " your album";
+"Onboarding3_2Bold" = "Single click";
+"Onboarding3_2Normal" = " adds/removes animal from album";
+"Onboarding3_3Bold" = "Double click";
+"Onboarding3_3Normal" = " to view animal info";
+
+"Onboarding4_TitleBold" = "Etosha map";
+"Onboarding4_TitleNormal" = "\nSo that you always know which way to go";
+"Onboarding4_1Bold" = "Zoom in/out ";
+"Onboarding4_1Normal" = " on map";
+"Onboarding4_2Bold" = "Click on camp ";
+"Onboarding4_2Normal" = "for more details";
+
+"Onboarding5_TitleBold" = "More infos";
+"Onboarding5_TitleNormal" = "\nFind some extra useful information here";
+"Onboarding5_1Bold" = "Gate times";
+"Onboarding5_1Normal" = " are up to date";
+"Onboarding5_2Bold" = " Etosha notes";
+"Onboarding5_2Normal" = "A place for your";
+"Onboarding5_3Bold" = "Camp details";
+"Onboarding5_3Normal" = " on each camp";
+
+"SettingsView_title" = "Menu";
+"SettingsView_review" = "Give us feedback";
+"SettingsView_share" = "Share this app";
+"SettingsView_howTo" = "What to expect in this app?";
+"SettingsView_webpage" = "Visit our webpage";

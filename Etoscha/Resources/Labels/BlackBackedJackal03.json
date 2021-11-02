@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/BlackBackedJackal/Photos/BlackBackedJackal03.imageset/BlackBackedJackal03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    100.75187969924812, 
+                    59.5563909774436
+                ], 
+                [
+                    439.09774436090225, 
+                    360.30827067669173
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    127.81954887218045, 
+                    70.8345864661654
+                ], 
+                [
+                    251.8796992481203, 
+                    194.1428571428571
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

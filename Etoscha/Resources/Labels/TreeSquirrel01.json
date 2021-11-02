@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/TreeSquirrel/Photos/TreeSquirrel01.imageset/TreeSquirrel01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    65.53968253968254, 
+                    51.17460317460318
+                ], 
+                [
+                    486.968253968254, 
+                    512.2857142857143
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    254.42857142857144, 
+                    90.06349206349206
+                ], 
+                [
+                    444.1111111111111, 
+                    290.06349206349205
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 547, 
+    "imageWidth": 600
+}

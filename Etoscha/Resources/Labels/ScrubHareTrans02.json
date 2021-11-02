@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/ScrubHare/Photos/ScrubHare03.imageset/ScrubHareTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    172.18045112781954, 
+                    9.992481203007515
+                ], 
+                [
+                    399.24812030075185, 
+                    228.03759398496237
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    153.38345864661653, 
+                    12.248120300751879
+                ], 
+                [
+                    538.3458646616541, 
+                    337.0601503759398
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

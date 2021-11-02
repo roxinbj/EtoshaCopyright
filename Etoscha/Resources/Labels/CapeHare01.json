@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CapeHare/Photos/CapeHare01.imageset/CapeHare01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    80.45112781954887, 
+                    37.75187969924812
+                ], 
+                [
+                    439.84962406015035, 
+                    357.30075187969925
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

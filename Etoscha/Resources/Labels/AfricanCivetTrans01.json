@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanCivet/Photos/AfricanCivetTrans01.imageset/AfricanCivetTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    476.7777777777778, 
+                    4.410256410256409
+                ], 
+                [
+                    594.7264957264957, 
+                    143.72649572649573
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 290, 
+    "imageWidth": 600
+}

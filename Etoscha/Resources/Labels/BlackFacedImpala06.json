@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BlackFacedImpala/Photos/BlackFacedImpala06.imageset/BlackFacedImpala06.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    312.125, 
+                    9.541666666666668
+                ], 
+                [
+                    579.8333333333334, 
+                    339.75
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 717, 
+    "imageWidth": 600
+}

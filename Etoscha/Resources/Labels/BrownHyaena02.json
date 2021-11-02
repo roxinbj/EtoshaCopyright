@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BrownHyaena/Photos/BrownHyaena02.imageset/BrownHyaena02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    9.0, 
+                    163.70833333333334
+                ], 
+                [
+                    599, 
+                    700
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 717, 
+    "imageWidth": 600
+}

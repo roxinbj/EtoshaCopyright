@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Lion/Photos/LionFemale.imageset/LionTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    112.66666666666669, 
+                    9.222222222222221
+                ], 
+                [
+                    434.8888888888889, 
+                    288.1111111111111
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 766, 
+    "imageWidth": 600
+}

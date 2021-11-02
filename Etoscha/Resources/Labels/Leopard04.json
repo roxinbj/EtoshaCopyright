@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Leopard/Photos/Leopard04.imageset/Leopard04.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    112.78195488721803, 
+                    3.857142857142854
+                ], 
+                [
+                    367.6691729323308, 
+                    221.1503759398496
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    15.789473684210526, 
+                    4.6090225563909755
+                ], 
+                [
+                    462.406015037594, 
+                    434.6842105263158
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 445, 
+    "imageWidth": 600
+}

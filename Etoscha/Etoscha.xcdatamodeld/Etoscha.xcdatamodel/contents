@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20F71" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FieldNote" representedClassName="FieldNote" syncable="YES" codeGenerationType="class">
+        <attribute name="dateAdded" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="heading" optional="YES" attributeType="String"/>
+        <attribute name="text" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Mammal" representedClassName="Mammal" syncable="YES" codeGenerationType="class">
+        <attribute name="isSeen" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="mammaltypeValue" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Onboarding" representedClassName="Onboarding" syncable="YES" codeGenerationType="class">
+        <attribute name="isCoreDataSet" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isSightsViewExplained" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isTimeDiffDemoDone" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="FieldNote" positionX="-36" positionY="36" width="128" height="74"/>
+        <element name="Mammal" positionX="-54" positionY="-9" width="128" height="59"/>
+        <element name="Onboarding" positionX="-27" positionY="54" width="128" height="74"/>
+    </elements>
+</model>

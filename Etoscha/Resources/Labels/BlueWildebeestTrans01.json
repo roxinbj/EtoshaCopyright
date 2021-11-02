@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BlueWildebeest/Photos/BlueWildebeestTrans01.imageset/BlueWildebeestTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    2.231404958677686, 
+                    39.32231404958678
+                ], 
+                [
+                    274.9586776859504, 
+                    321.9669421487603
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 571, 
+    "imageWidth": 600
+}

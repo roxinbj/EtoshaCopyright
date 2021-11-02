@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Cheetah/Photos/Cheetah01.imageset/Cheetah01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    115.78947368421052, 
+                    45.01503759398496
+                ], 
+                [
+                    486, 
+                    399
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    311.2781954887218, 
+                    60.052631578947356
+                ], 
+                [
+                    421.8045112781955, 
+                    155.54135338345864
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

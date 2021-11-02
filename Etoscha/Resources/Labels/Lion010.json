@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Lion/Photos/Lion010.imageset/Lion010.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    52.63157894736842, 
+                    91.13533834586465
+                ], 
+                [
+                    539.0977443609022, 
+                    394.89473684210526
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

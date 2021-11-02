@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Springbok/Photos/Springbok06.imageset/Springbok06.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    176.69172932330827, 
+                    64.81954887218045
+                ], 
+                [
+                    495.4887218045113, 
+                    374.593984962406
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    209.77443609022555, 
+                    89.63157894736841
+                ], 
+                [
+                    315.03759398496237, 
+                    217.45112781954884
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

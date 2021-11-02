@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Steenbok/Photos/Steenbok01.imageset/Steenbok01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    100.0, 
+                    62.563909774436084
+                ], 
+                [
+                    494.7368421052631, 
+                    382.11278195488717
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    295.4887218045113, 
+                    88.87969924812029
+                ], 
+                [
+                    381.9548872180451, 
+                    174.593984962406
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

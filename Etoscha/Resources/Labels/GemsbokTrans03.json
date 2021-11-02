@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Gemsbok/Photos/GemsbokTrans02.imageset/GemsbokTrans03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    245.98058252427182, 
+                    11.62135922330097
+                ], 
+                [
+                    599, 
+                    377
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 672, 
+    "imageWidth": 600
+}

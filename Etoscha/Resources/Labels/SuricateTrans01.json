@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Suricate/Photos/SuricateTrans01.imageset/SuricateTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    254.6875, 
+                    17.0
+                ], 
+                [
+                    559.375, 
+                    298.25
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 1071, 
+    "imageWidth": 600
+}

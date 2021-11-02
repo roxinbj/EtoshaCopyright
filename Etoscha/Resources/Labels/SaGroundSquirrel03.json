@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/SaGroundSquirrel/Photos/SaGroundSquirrel03.imageset/SaGroundSquirrel03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    127.81954887218045, 
+                    79.10526315789474
+                ], 
+                [
+                    434.5864661654135, 
+                    370.0827067669173
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

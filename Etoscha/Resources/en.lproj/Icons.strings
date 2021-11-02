@@ -1,0 +1,54 @@
+/* 
+  Icons.strings
+  Etoscha
+
+  Created by Björn Roxin on 26.04.21.
+  
+*/
+// Diet
+"Seeds" =  "Seeds";
+"Berries" =  "Berries";
+"Fruit" =  "Fruit";
+"Flowers" =  "Flowers";
+"Leaves" =  "Leaves";
+"Vegetation" =  "Vegetation";
+"Roots" =  "Roots";
+"Bulbs" =  "Bulbs";
+"Bark" =  "Bark";
+"Seed Pods" =  "Seed pods";
+"Tree Gum" =  "Tree gum";
+"Grass" =  "Grass";
+"Insects" =  "Insects";
+"Ant" =  "Ants";
+"Termites" =  "Termites";
+"Reptiles" =  "Reptiles";
+"Eggs" =  "Eggs";
+"Fish" =  "Fish";
+"Frogs" =  "Frogs";
+"Crabs" =  "Crabs";
+"Birds" =  "Birds";
+"SmallMammals" =  "Small mammals";
+"SmallAntelope" =  "Small antelope";
+"LargeAntelope" =  "Large antelope";
+"Giraffe" =  "Giraffe";
+"Carrion" = "Carrion";
+
+// ActiveTime
+"Diurnal" = "Active during the day";
+"Nocturnal" = "Active during the night";
+"Day and Night" = "Active day and night";
+
+// Habitat
+"Widespread" = "Widespread";
+"Reedbed and floodplain" = "Reed bed and floodplain";
+"Bushveld and savannah" = "Bushveld and savannah";
+"Urban area" = "Urban area";
+"Desert" = "Desert";
+"Semi Desert" = "Semi-desert";
+"Rocky Area" = "Rocky area";
+"Dry Scrub" = "Dry shrub";
+"Mountain and Hills" = "Mountain and hills";
+"Forest" = "Forest";
+"Riverline Forests" = "Riverline forests";
+"Woodland" = "Woodland";
+"GrassPlains" = "Grass plains";

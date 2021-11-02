@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Cheetah/Photos/CheetahTrans01.imageset/CheetahTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    135.33834586466165, 
+                    104.7142857142857
+                ], 
+                [
+                    35, 
+                    0
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 361, 
+    "imageWidth": 600
+}

@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanWildCat/Photos/AfricanWildCat02.imageset/AfricanWildCat02.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    10.638297872340425, 
+                    9.028368794326248
+                ], 
+                [
+                    464.53900709219863, 
+                    389.8794326241135
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 398, 
+    "imageWidth": 499
+}

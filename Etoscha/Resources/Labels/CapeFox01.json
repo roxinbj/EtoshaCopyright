@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CapeFox/Photos/CapeFox01.imageset/CapeFox01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    23.308270676691727, 
+                    35.992481203007515
+                ], 
+                [
+                    487.2180451127819, 
+                    364.56390977443607
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

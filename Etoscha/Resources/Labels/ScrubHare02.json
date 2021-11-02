@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/ScrubHare/Photos/ScrubHare02.imageset/ScrubHare02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    89.47368421052632, 
+                    37.49624060150376
+                ], 
+                [
+                    430.0751879699248, 
+                    323.9624060150376
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

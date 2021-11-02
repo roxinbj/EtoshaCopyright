@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BlackBackedJackal/Photos/BlackBackedJackalTrans01.imageset/BlackBackedJackalTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    363.3333333333333, 
+                    22.0
+                ], 
+                [
+                    599, 
+                    266
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 638, 
+    "imageWidth": 600
+}

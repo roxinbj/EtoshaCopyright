@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BrownHyaena/Photos/BrownHyaenaTrans01.imageset/BrownHyaenaTrans03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    2.551724137931039, 
+                    4.03448275862069
+                ], 
+                [
+                    218.93103448275866, 
+                    252.31034482758622
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 595, 
+    "imageWidth": 600
+}

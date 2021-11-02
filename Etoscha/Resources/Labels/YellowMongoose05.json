@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/YellowMongoose/Photos/YellowMongoose05.imageset/YellowMongoose05.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    141.35338345864662, 
+                    79.85714285714286
+                ], 
+                [
+                    511.2781954887218, 
+                    281.3609022556391
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

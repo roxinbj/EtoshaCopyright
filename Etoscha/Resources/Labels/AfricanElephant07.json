@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanElephant/Photos/AfricanElephant07.imageset/AfricanElephant07.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    222.72727272727272, 
+                    51.636363636363626
+                ], 
+                [
+                    494.5454545454545, 
+                    398.9090909090909
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    7.2727272727272725, 
+                    29.818181818181813
+                ], 
+                [
+                    496.3636363636363, 
+                    422.5454545454545
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 428, 
+    "imageWidth": 640
+}

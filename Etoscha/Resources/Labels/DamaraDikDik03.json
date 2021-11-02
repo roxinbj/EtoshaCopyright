@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/DamaraDikDik/Photos/DamaraDikDik03.imageset/DamaraDikDik03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    40.6015037593985, 
+                    46.02255639097744
+                ], 
+                [
+                    501.5037593984962, 
+                    346.0225563909774
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

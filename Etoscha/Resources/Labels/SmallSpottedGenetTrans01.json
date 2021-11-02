@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/SmallSpottedGenet/Photos/SmallSpottedGenet04.imageset/SmallSpottedGenetTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    485.71428571428567, 
+                    117.5112781954887
+                ], 
+                [
+                    595.4887218045112, 
+                    247.58646616541353
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    11.278195488721805, 
+                    36.30827067669172
+                ], 
+                [
+                    594.7368421052631, 
+                    306.2330827067669
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

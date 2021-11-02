@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BlackRhino/Photos/BlackRhinoTrans02.imageset/BlackRhinoTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    145.1127819548872, 
+                    140.75939849624058
+                ], 
+                [
+                    529.3233082706766, 
+                    373.84210526315786
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

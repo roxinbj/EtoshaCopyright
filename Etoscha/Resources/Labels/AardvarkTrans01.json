@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Photos/AardvarkTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    335.0689655172414, 
+                    18.103448275862092
+                ], 
+                [
+                    561.7931034482759, 
+                    306.89655172413796
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

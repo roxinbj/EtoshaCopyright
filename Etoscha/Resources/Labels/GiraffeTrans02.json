@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Giraffe/Photos/GiraffeTransMale.imageset/GiraffeTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    195.13513513513516, 
+                    194.64864864864865
+                ], 
+                [
+                    1.8918918918919019, 
+                    2.756756756756757
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 931, 
+    "imageWidth": 600
+}

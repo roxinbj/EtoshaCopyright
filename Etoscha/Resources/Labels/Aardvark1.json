@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Photos/Aardvark1.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    1078.0, 
+                    62.0
+                ], 
+                [
+                    2768.0, 
+                    2262.0
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 3393, 
+    "imageWidth": 3065
+}

@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Leopard/Photos/LeopardMale.imageset/LeopardTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    23.308270676691727, 
+                    16.25563909774435
+                ], 
+                [
+                    167.6691729323308, 
+                    179.41353383458647
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 350, 
+    "imageWidth": 600
+}

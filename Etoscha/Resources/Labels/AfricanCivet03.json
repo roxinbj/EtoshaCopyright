@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanCivet/Photos/AfricanCivet03.imageset/AfricanCivet03.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    227.20512820512823, 
+                    126.0769230769231
+                ], 
+                [
+                    374.21367521367523, 
+                    297.8717948717949
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    184.47008547008548, 
+                    45.735042735042754
+                ], 
+                [
+                    476.7777777777778, 
+                    360.2649572649573
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 399, 
+    "imageWidth": 600
+}

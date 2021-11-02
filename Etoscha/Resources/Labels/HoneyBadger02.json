@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/HoneyBadger/Photos/HoneyBadger02.imageset/HoneyBadger02.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    104.51127819548871, 
+                    46.27067669172932
+                ], 
+                [
+                    471.4285714285714, 
+                    393.63909774436087
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    154.88721804511277, 
+                    72.58646616541353
+                ], 
+                [
+                    321.05263157894734, 
+                    224.46616541353382
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 399, 
+    "imageWidth": 600
+}

@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BlueWildebeest/Photos/BlueWildebeest03.imageset/BlueWildebeest03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    0.5785123966942152, 
+                    43.45454545454545
+                ], 
+                [
+                    290.6611570247934, 
+                    321.9669421487603
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 571, 
+    "imageWidth": 600
+}

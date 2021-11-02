@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/WhiteRhino/Photos/WhiteRhino02.imageset/WhiteRhino02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    83.45864661654134, 
+                    20.203007518796994
+                ], 
+                [
+                    502.25563909774434, 
+                    384.11278195488717
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

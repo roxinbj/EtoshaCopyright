@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/CommonDuiker/Photos/CommonDuiker02.imageset/CommonDuiker02.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    100.83177570093457, 
+                    55.87850467289719
+                ], 
+                [
+                    469.9906542056075, 
+                    429.7102803738318
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    84.00934579439252, 
+                    45.598130841121495
+                ], 
+                [
+                    546, 
+                    642
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 643, 
+    "imageWidth": 600
+}

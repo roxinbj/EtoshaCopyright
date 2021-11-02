@@ -1,0 +1,55 @@
+/* 
+  IconsDe.strings
+  Etoscha
+
+  Created by Björn Roxin on 23.07.21.
+  
+*/
+
+// Diet
+"Seeds" =  "Saaten";
+"Berries" =  "Beeren";
+"Fruit" =  "Früchte";
+"Flowers" =  "Blüten";
+"Leaves" =  "Blätter";
+"Vegetation" =  "Vegetation";
+"Roots" =  "Wurzeln";
+"Bulbs" =  "Knospen";
+"Bark" =  "Rinde";
+"Seed Pods" =  "Schoten";
+"Tree Gum" =  "Baumrinde";
+"Grass" =  "Gras";
+"Insects" =  "Insekten";
+"Ant" =  "Ameisen";
+"Termites" =  "Termiten";
+"Reptiles" =  "Reptilien";
+"Eggs" =  "Eier";
+"Fish" =  "Fisch";
+"Frogs" =  "Frösche";
+"Crabs" =  "Krabben";
+"Birds" =  "Vögel";
+"SmallMammals" =  "Kleine Säugetiere";
+"SmallAntelope" =  "Kleine Antilopen";
+"LargeAntelope" =  "Große Antilopen";
+"Giraffe" =  "Giraffen";
+"Carrion" = "Aas";
+
+// ActiveTime
+"Diurnal" = "Tagaktiv";
+"Nocturnal" = "Nachtaktiv";
+"Day and Night" = "Tag und Nacht aktiv";
+
+// Habitat
+"Widespread" = "Weit verbreitet";
+"Reedbed and floodplain" = "Schilfbetten, Überschwemmungsgebiet";
+"Bushveld and savannah" = "Busch & Savanne";
+"Urban area" = "Städtische Gebiete";
+"Desert" = "Wüste";
+"Semi Desert" = "Halbwüste";
+"Rocky Area" = "Felsengebiete";
+"Dry Scrub" = "Trockenes Gestrüp";
+"Mountain and Hills" = "Berge & Hügel";
+"Forest" = "Wald";
+"Riverline Forests" = "Wälder im Flussgebiet";
+"Woodland" = "Waldland";
+"GrassPlains" = "Grasflächen";

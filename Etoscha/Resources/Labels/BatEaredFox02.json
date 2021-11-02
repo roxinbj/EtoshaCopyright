@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/BatEaredFox/Photos/BatEaredFox02.imageset/BatEaredFox02.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    260.90225563909775, 
+                    163.06015037593983
+                ], 
+                [
+                    453.38345864661653, 
+                    333.7368421052631
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    287.21804511278197, 
+                    173.58646616541353
+                ], 
+                [
+                    361.65413533834584, 
+                    255.5413533834586
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

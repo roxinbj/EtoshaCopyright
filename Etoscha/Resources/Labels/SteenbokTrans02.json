@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Steenbok/Photos/SteenbokTrans02.imageset/SteenbokTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    268.6835443037974, 
+                    12.987341772151897
+                ], 
+                [
+                    599, 
+                    309
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 869, 
+    "imageWidth": 600
+}

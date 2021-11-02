@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/SideStripedJackal/Photos/SideStripedJackalTrans01.imageset/SideStripedJackalTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    6.75, 
+                    15.96875
+                ], 
+                [
+                    180.96875, 
+                    188.625
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 538, 
+    "imageWidth": 600
+}

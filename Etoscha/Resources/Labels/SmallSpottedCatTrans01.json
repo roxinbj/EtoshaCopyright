@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/SmallSpottedCat/Photos/SmallSpottedCatTrans01.imageset/SmallSpottedCatTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    262.37349397590356, 
+                    15.277108433734938
+                ], 
+                [
+                    599, 
+                    351
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 830, 
+    "imageWidth": 600
+}

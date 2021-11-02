@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Klipspringer/Photos/Klipspringer03.imageset/Klipspringer03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    57.01754385964911, 
+                    32.08771929824561
+                ], 
+                [
+                    507.0175438596491, 
+                    563.6666666666666
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 604, 
+    "imageWidth": 600
+}

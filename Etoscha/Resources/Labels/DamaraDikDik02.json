@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/DamaraDikDik/Photos/DamaraDikDik02.imageset/DamaraDikDik02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    221.5, 
+                    48.5
+                ], 
+                [
+                    365.0, 
+                    196.5
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    48.0, 
+                    36.0
+                ], 
+                [
+                    365, 
+                    332
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 333, 
+    "imageWidth": 398
+}

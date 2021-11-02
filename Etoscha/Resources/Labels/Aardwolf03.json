@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Aardwolf/Photos/Aardwolf03.imageset/Aardwolf03.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    275.0683760683761, 
+                    124.7777777777778
+                ], 
+                [
+                    410.965811965812, 
+                    282.8974358974359
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    191.30769230769232, 
+                    78.62393162393164
+                ], 
+                [
+                    447.71794871794873, 
+                    405.974358974359
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 488, 
+    "imageWidth": 600
+}

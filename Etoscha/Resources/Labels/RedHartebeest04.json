@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/RedHartebeest/Photos/RedHartebeest04.imageset/RedHartebeest04.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    111.70967741935483, 
+                    17.677419354838705
+                ], 
+                [
+                    531.8709677419355, 
+                    422.51612903225805
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    364.93548387096774, 
+                    28.967741935483872
+                ], 
+                [
+                    506.06451612903226, 
+                    230.5806451612903
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 427, 
+    "imageWidth": 640
+}

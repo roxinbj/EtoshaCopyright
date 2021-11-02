@@ -1,0 +1,205 @@
+/* 
+  TextsDe.strings
+  Etoscha
+
+  Created by Björn Roxin on 23.07.21.
+  
+*/
+
+"HomeView_welcomeHeading" = "Willkommen in der \n Etosha-App!";
+"HomeView_welcomeSubHeading" = "Entdecke!";
+"HomeView_button" = "Home";
+"HomeView_mammals" = "Säugetier-Guide";
+"HomeView_sights" = "Gesichtete Tiere";
+"HomeView_map" = "Etosha Karte";
+
+"TabItem_home" = "Home";
+"TabItem_animals" = "Säugetiere";
+"TabItem_more" = "Mehr";
+
+"MammalsView_heading" = "Säugetiere";
+"MammalsView_button" = "Säugetiere";
+
+"AccommodationView_heading" = "Etosha-Camps";
+"AccommodationView_button" = "Unterkünfte";
+
+"MapView_heading" = "";
+"MapView_button" = "Karte";
+
+"ContactNumberView_heading" = "Telefonbuch";
+"ContactNumberView_button" = "Telefonbuch";
+"ContactNumberView_call" = "Anrufen";
+"ContactNumberView_police" = "Polizei";
+
+"MySightingsView_heading" = "Gesichtete Tiere";
+"MySightingsView_button" = "Gesichtete Tiere";
+"MySightingsView_resetHeading" = "Gesichtete Tiere zurücksetzen";
+"MySightingsView_resetMessage" = "Möchtest du wirklich alle deine gesichteten Tiere löschen und eine neue Tour starten?";
+"MySightingsView_resetCancel" = "Abbrechen";
+"MySightingsView_resetConfirm" = "Zurücksetzen";
+"MySightingsView_onboardingTitle" = "Wie funktioniert das Album der gesichteten Tiere?";
+"MySightingsView_onboardingMessage" = "Du hast ein neues Tier gesehen? -> Klicke einmal darauf um es hinzuzufügen oder es wieder zu entfernen \n Wenn du dir ein Tier im Detail anschauen willst -> Doppelklicke (oder halte den Klick lang genug gedrückt) und du kommst zur Detailansicht \n Möchtest du deine Tier-Liste von vorn beginnen? -> Drücke auf 'Zurücksetzen' oben rechts";
+"MySightingsView_onboardingOk" = "Okay, ich habe verstanden";
+"MySightingsView_onboardingRepeat" = "Bitte erkläre es mir noch einmal";
+
+
+"AboutEtoshaView_heading" = "Über Etosha";
+"AboutEtoshaView_button" = "Über Etosha";
+"AboutEtoshaView_topInfo" = "Der Etosha-Nationalpark wurde im Jahre 1907 als Wildreservat ausgewiesen. Er umfasst eine Fläche von 22.270 Quadratkilometern, welche knapp halb so groß ist wie die gesamte Schweiz.";
+"AboutEtoshaView_bottomInfo" = "Der Park wurde nach seiner einzigartigen Salzpfanne benannt, welche sich im Herzen des Parks befindet. In Oshivambo bedeutet 'Etosha' 'große, weiße Fläche'. \n\n Nach einer guten Regensaison wird die Salzpfanne zu einer zeitweiligen Lagune mit Wasser. \n\n Wusstest du, dass man die Etosha-Salzpfanne sogar vom All aus erkennen kann?";
+
+"AboutUs_heading" = "Über uns";
+"AboutUs_intro" = "Vielen Dank, dass du mit deinem Kauf eine 100% namibische Produktentwicklung von Termite Software unterstützt hast.\n\nEin großes Dankeschön geht auch an Projects & Promotions, die uns die Etosha-Karte sowie die Bilder und Informationen zu allen Tieren zur Verfügung gestellt haben.";
+"AboutUs_conceptHeading" = "Unser Etosha-App Konzept";
+"AboutUs_conceptText" = "Wir wollen es ermöglichen, dass alle drei Parteien von dieser App-Nutzung profitieren. Sieh her:";
+"AboutUs_aimHeading" = "Unser Ziel";
+"AboutUs_aimText" = "In zukünftigen App-Updates planen wir mit Hilfe deiner markierten Tiere eine Datenbank aufzubauen, die es dem Naturschutz ermöglichen soll, mehr Information über die verschiedenen Tiere im Etosha-Park zu sammeln. Diese Statistiken werden anschließend Naturschutzprojekten zur Verfügung gestellt, die wissenschaftliche Erkenntnisse daraus ziehen können.";
+"AboutUs_endText" = "Die App informiert dich, wo sich die verschiedenen Tierarten zuletzt befanden. So kannst du die Wahrscheinlichkeit erhöhen, deine Lieblingstiere auch wirklich zu sehen. Aber keine Sorge! Bedrohte Tiere sind davon natürlich ausgenommen. Der Tierschutz steht an erster Stelle.";
+
+"WelcomeView_title" = "Wilkommen!";
+"WelcomeView_greating" = "Willkommen im Etosha-Nationalpark und zu deinem digitalem Etosha-Guide";
+"WelcomeView_subheading" = "Was erwartet dich hier?";
+"WelcomeView_question1" = "Du sitz gemütlich am Okaukuejo-Wasserloch mit deinem Sundowner-Getränk und fragst dich plötzlich \n 'Wieviel Liter Wasser kann der Elefant denn auf einmal mit seinem Rüssel trinken?'";
+"WelcomeView_answer1" = "Besuch doch die Detailansicht des Elefanten auf der App und mach dich schlau...";
+"WelcomeView_question2" = "Du genießt deinen Braai und ihr besprecht den Plan für morgen. Leider habt ihr ganz vergessen, wann denn die Tore aufmachen.";
+"WelcomeView_answer2" = "Unter 'Öffnungszeiten' findest du die Lösung";
+"WelcomeView_question3" = "Möchtest du darüber Buch führern, welche Tiere du schon gesehen hast?";
+"WelcomeView_answer3" = "Nutze doch einfach die App dafür. Unter 'Meine gesichteten Tiere' findest du sie alle.";
+"WelcomeView_question4" = "Oh nein! Schon wieder ein papper Tyre und kein Internet-Empfang, um die Rezeption anzurufen. Was nun?";
+"WelcomeView_answer4" = "Im App-Telefonbuch findest du alle wichtigen Telefonnummern";
+"WelcomeView_end" = "Dies sind nur vier der vielen Funktionen, die wir für dich in dieser App bereithalten. Wir wünschen dir viel Spaß beim Erkunden aller weiteren...";
+
+"MammalsFacts_buttonText" = "Fakten";
+"MammalsFacts_funFactHeading" = "Schon gewusst?";
+"MammalsFacts_etoshaSpecificHeading" = "Etosha-spezifische Fakten";
+"MammalsFacts_additionalFactHeading" = "Wie kommunizieren die Tiere untereinander?";
+"MammalsFacts_conservationHeading" = "Erhaltungsstatus";
+
+"MammalsSize_buttonText" = "Fußabdruck";
+"MammalsSize_footprintHeading" = "Fußabdruck";
+"MammalsSize_sizeHeading" = "Größe verglichen zum Menschen";
+
+"MammalsBehavior_buttonText" = "Verhalten";
+"MammalsBehavior_offspringHeading" = "Nachwuchs";
+
+"MammalsAppearance_buttonText" = "Aussehen";
+"MammalsAppearance_female" = "Weiblich";
+"MammalsAppearance_male" = "Männlich";
+"MammalsAppearance_genderDiffHeading" = "Geschlechtsunterschiede";
+
+"MammalsHabitat_buttonText" = "Vorkommen";
+"MammalsHabitat_iconHeading" = "In diesen Gegenden vorkommend";
+"MammalsHabitat_habitatHeading" = "Lebensraum in Namibia";
+
+"MammalDietView_buttonText" = "Ernährung";
+"MammalDietView_predatorHeading" = "Wer frisst mich?";
+
+"GameDriveHints_title" = "Game-Drive-Tips und -Tricks";
+"GameDriveHints_hintTitles" = "Das Wichtigste ist:\nkorrektes Timing &Weniger ist mehr &Chill mal &Denke einen Schritt voraus";
+"GameDriveHints_hints" = "Die frühen Morgenstunden und die Zeit um den Sonnenuntergang herum bieten die beste Chance für tolle Foto-Aufnahmen. Verbringe die Hitze am Mittag lieber an einem Pool und tanke dort deine Energie auf.&Besuche lieber weniger Wasserlöcher am Tag und nimm dir dafür die Zeit, länger an einem Wasserloch zu verweilen. Du wirst überrascht sein wie viele Tiere dich dort besuchen kommen.&Die Geschwindigkeitsbegrenzung liegt bei 60km/h, doch selbst diese niedrige Geschwindigkeit ist oft noch zu schnell, um den schlafenden Löwen unter dem Busch zu erhaschen. Nimm den Fuß vom Gas und erlaube dir, den Löwen zu entdecken.&Du bist unter Zeitdruck, weil das Tor bald schon schließt und siehst plötzlich einen Leoparden neben der Straße? Sei clever und plane genug Zeit für die Rückfahrt ein, damit du jederzeit noch für den Leoparden anhalten kannst.";
+
+"CampsView_facilities" = "Anlagen und Einrichtungen";
+"CampsView_accommodation" = "Unterkünfte";
+
+"Okaukuejo_Info" = "Vom Turm in Okaukuejo hat man einen fabelhaften Blick in die offene, weite Steppe. Es lohnt sich für Frühaufsteher, dort den ersten Kaffee bei Sonnenaufgang zu genießen. Das berühmte Okaukuejo-Wasserloch ist bekannt für zahlreiche Tiersichtungen. Tagsüber sieht man oft eine große Anzahl von Antilopen und abends hat man gute Chancen auf beide Nashornarten oder einen Löwen. Achtet doch mal auf die Geräusche, denn Löwen hört man in Okaukuejo oft schon von weitem herankommen. Es lohnt sich in Okaukuejo einen Abstecher ins Etosha Ökologische Institut oder ins Museum zu machen.";
+"Okaukuejo_Accommodations" = "5 Premium Wasserloch-Chalets •30 Wasserloch-Chalets Doppelzimmer•2 Familien-Chalets (2 Zimmer, 4 Betten) mit Braai •20 Bush-Chalets (2 Betten) mit Braai •45 Doppelzimmer •2 behindertengerechte Chalets (2 Betten) •37 Campingplätze (max 8)";
+"Halali_Info" = "Wusstest du, dass 'Halali' ein deutscher Jagdruf ist, welcher das Ende einer Jagd signalisiert? Das Wasserloch in Halali ist sehr besonders - man sitzt etwas erhöht unter großen, schattenspendenden Moringa-Bäumen und hat dadurch einen wunderschönen Blick von oben auf das Wasserloch. Solltest du campen, sei vorsichtig, denn manchmal kommen streuende Honigdachse ins Camp, auf der Suche nach etwas Essbarem. Verräume dein Essen und verfüttere es bitte nicht, es tut den Tieren nicht gut.";
+"Halali_Accommodations" = "40 Doppelzimmer •5 Honeymoons-Suits mit Jacuzzi (Whirlpool)•4 behindertengerechte Zimmer•10 Bush-Chalets (2 Schlafzimmer mit Braai) •10 Bush-Chalets (1 Schlafzimmer mit Braai) •2 Familien-Chalets (2 Schlafzimmer mit Braai)•58 Campingplätze mit Braai, Strom und Wasser (max 8) •5 behindertengerechte Waschbecken ohne Kleidungs-Waschmöglichkeiten und eine kleine Küche •2 behindertengerechte Waschbecken mit Kleidungs-Waschmöglichkeiten und eine kleine Küche";
+"Namutoni_Info" = "Das Fort in Namutoni wurde 1956 nach den Originalplänen aus der deutschen Kolonialzeit aus 1902 wieder neugebaut. Es ist nun ein nationales Denkmal, dessen Museum für historisch Interessierte einen Besuch wert ist. Wusstest du, dass 'Namutoni' 'erhöhter Platz' in Oshindonga, einer Owambo-Sprache, bedeutet?";
+"Namutoni_Accommodations" = "24 Doppelzimmer •20 Bush-Chalets •25 Campingplätze";
+"Olifantsrus_Info" = "'Olifantsrus' bedeutet übersetzt 'der Platz, wo die Elefanten ruhen'. Das Camp Olifantsrus ist ein alter Elefantenschlachthof. Zwischen 1983 und 1985 wurden in Olifantsrus 525 Elefanten geschlachtet, da damals eine Überpopulation der Elefanten befürchtet wurde. Im Olifantsrus Information Center gibt es dazu noch mehr Informationen.\n\nIn Olifantsrus stehen den Campern neben Spülmöglichkeiten auch ein Gemeinschaftskühlschrank zur Verfügung.";
+"Olifantsrus_Accommodations" = "10 Campingplätze (max 8)";
+"Onkoshi_Info" = "Der Blick auf die majestätische Salzpfanne macht dieses Camp einzigartig. Während der Regenzeit kann man hier Flamingos beobachten. Für die Romantiker unter uns, die Sonnenauf- und -untergänge sind auf Onkoshi spektakulär. Strom gibt es nur zwischen 06:00-10:00 und wieder von 17:00-22:00.";
+"Onkoshi_Accommodations" = "14 Chalets •1 Honeymoon-Chalet";
+"Dolomite_Info" = "Du möchtest am liebsten den Massen an Touristen ausweichen? Komm nach Dolomite. Es liegt in dem ehemaligen verbotenem Gebiet im Westen der Etosha-Pfanne. Beide Nashornarten kann man hier oft zu Gesicht bekommen. Der Name stammt von den Domite-Felsenformationen aus dieser Gegend.";
+"Dolomite_Accommodations" = "3 luxuriöse Chalets mit Jacuzzi •17 Bush-Chalets";
+
+"GateTimes_Title" = "Öffnungszeiten";
+"GateTimes_AlertHeading" = "Die Öffnungszeiten unterscheiden sich nicht zwangsläufig";
+"GateTimes_AlertText" = "Die Öffnungszeiten ändern sich alle paar Tage. Es kann allerdings auch möglich sein, dass die Zeiten für heute und morgen dieselben sind.";
+"GateTimes_InfoText" = "Bitte halte dich an die Öffnungszeiten und plane genug Zeit ein, um rechtzeitig zurück zu sein! Es drohen dir Strafen, wenn du diese Regel nicht beachtest.";
+"GateTimes_AlertOkButton" = "Ich habe verstanden, danke";
+"GateTimes_AlertRepeatButton" = "Erinnere mich nächstes Mal wieder";
+"GateTimes_TodayButton" = "Heute";
+"GateTimes_TomorrowButton" = "Morgen";
+"GateTimes_ClosingTime" = "Tor schließt um";
+"GateTimes_OpeningTime" = "Tor öffnet um";
+
+"FieldNotes_Title" = "Eigene Notizen";
+"FieldNotes_edit" = "Bearbeiten";
+"FieldNotes_delete" = "Löschen";
+"FieldNotes_add" = "Hinzufügen";
+"FieldNotes_done" = "Fertig";
+"FieldNotes_cancel" = "Cancel";
+"FieldNotes_editHeading" = "Notiz bearbeiten";
+"FieldNotes_addHeading" = "Notiz hinzufügen";
+"FieldNotes_editMessage" = "Was hast du beobachtet?";
+"FieldNotes_addMessage" = "Was hast du beobachtet?";
+"FieldNotes_headingPlaceholder" = "Überschrift";
+"FieldNotes_textPlaceholder" = "Notiz";
+
+"InfoView_title" = "Mehr Informationen";
+"InfoView_hintsTitle" = "Tipps";
+"InfoView_fieldNotesTitle" = "Eigene Notizen";
+"InfoView_callHelpTitle" = "Telefonbuch";
+"InfoView_gateTimesTitle" = "Tor-Zeiten";
+"InfoView_accommodationTitle" = "Unterkünfte";
+"InfoView_aboutEtoshaTitle" = "Über Etosha";
+"InfoView_aboutUsTitle" = "Über uns";
+
+"Call" = "Anrufen";
+"Book" = "Buchen";
+"Map" = "Karte";
+
+"OnboardingButtonDone" = "Viel Spaß";
+"OnboardingButtonNext" = "Weiter";
+"Onboarding1_TitleBold" = "Willkommen!";
+"Onboarding1_TitleNormal" = "\nLasst uns gemeinsam die App erkunden";
+"Onboarding1_1Bold" = "Feldführer";
+"Onboarding1_1Normal" = " der Säugetiere";
+"Onboarding1_2Bold" = " gesichtete Tiere";
+"Onboarding1_2Normal" = "Steckbrief deiner";
+"Onboarding1_3Bold" = "Etosha-Karte";
+"Onboarding1_3Normal" = " zur Orientierung";
+
+"Onboarding2_TitleBold" = "Säugetiere Führer";
+"Onboarding2_TitleNormal" = "\nInformationen zu jedem Säugetier in Etosha";
+"Onboarding2_11Bold" = "Hinzufügen/Entfernen";
+"Onboarding2_11Normal" = " zur Liste der gesichteten Tiere \n oder \n";
+"Onboarding2_12Bold" = "Doppelklicke";
+"Onboarding2_12Normal" = " auf's Bild";
+"Onboarding2_2Bold" = "Wische";
+"Onboarding2_2Normal" = " für's nächste Bild";
+"Onboarding2_3Bold" = "Mehr Infos";
+"Onboarding2_3Normal" = " zum Tier";
+
+"Onboarding3_TitleBold" = "Album der gesichteten Tiere";
+"Onboarding3_TitleNormal" = "\nFülle dein Album, wann immer du ein neues Tier siehst";
+"Onboarding3_1Bold" = "Zurücksetzen";
+"Onboarding3_1Normal" = " deines Albums";
+"Onboarding3_2Bold" = "Einzelklicke";
+"Onboarding3_2Normal" = " zum Hinzufügen oder Entfernen des Tieres";
+"Onboarding3_3Bold" = "Doppelklicke";
+"Onboarding3_3Normal" = " um zur Tier-Info zu gelangen";
+
+"Onboarding4_TitleBold" = "Etosha-Karte";
+"Onboarding4_TitleNormal" = "\nDamit du immer weißt, wo es hingeht";
+"Onboarding4_1Bold" = "Zoome rein/raus ";
+"Onboarding4_1Normal" = " auf der Karte";
+"Onboarding4_2Bold" = "Klicke auf Camp";
+"Onboarding4_2Normal" = " für mehr Infos";
+
+"Onboarding5_TitleBold" = "Mehr Infos";
+"Onboarding5_TitleNormal" = "\nEin paar nützliche Infos findest du auch hier";
+"Onboarding5_1Bold" = "Torzeiten";
+"Onboarding5_1Normal" = " sind immer aktuell";
+"Onboarding5_2Bold" = "Etosha-Notizen";
+"Onboarding5_2Normal" = "Platz für deine ";
+"Onboarding5_3Bold" = "Camp-Informationen";
+"Onboarding5_3Normal" = " zu jedem Camp";
+
+"SettingsView_title" = "Menu";
+"SettingsView_review" = "Gib uns Feedback";
+"SettingsView_share" = "Teile diese App mit Freunden";
+"SettingsView_howTo" = "Was enthält die App?";
+"SettingsView_webpage" = "Besuche unsere Webseite";

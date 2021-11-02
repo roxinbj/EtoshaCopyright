@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/SouthernLesserGalago/Photos/SouthernLesserGalagoTrans03.imageset/SouthernLesserGalagoTrans03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    342.85714285714283, 
+                    23.112781954887218
+                ], 
+                [
+                    596.2406015037594, 
+                    244.16541353383457
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 479, 
+    "imageWidth": 600
+}

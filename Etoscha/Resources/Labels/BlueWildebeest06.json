@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BlueWildebeest/Photos/BlueWildebeest06.imageset/BlueWildebeest06.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    92.48120300751879, 
+                    76.84962406015038
+                ], 
+                [
+                    524.0601503759398, 
+                    340.0075187969925
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

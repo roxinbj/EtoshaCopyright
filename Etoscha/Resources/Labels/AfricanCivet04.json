@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanCivet/Photos/AfricanCivet04.imageset/AfricanCivet04.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    102.41880341880342, 
+                    29.2820512820513
+                ], 
+                [
+                    544.2991452991454, 
+                    319.02564102564105
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

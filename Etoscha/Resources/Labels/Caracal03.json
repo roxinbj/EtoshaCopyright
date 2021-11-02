@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Caracal/Photos/Caracal03.imageset/Caracal03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    106.97402597402595, 
+                    87.31168831168831
+                ], 
+                [
+                    470.6103896103896, 
+                    531.4675324675325
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 900, 
+    "imageWidth": 600
+}

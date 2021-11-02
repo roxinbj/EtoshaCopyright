@@ -1,0 +1,26 @@
+{
+    "imagePath": "../../../../../SBX/Etoscha/Etoscha/Resources/Mammals.xcassets/Aardwolf/Photos/Aardwolf02.imageset/Aardwolf02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    350.2820512820513, 
+                    2.914529914529915
+                ], 
+                [
+                    587.0341880341881, 
+                    279.83760683760687
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 540, 
+    "imageWidth": 600
+}

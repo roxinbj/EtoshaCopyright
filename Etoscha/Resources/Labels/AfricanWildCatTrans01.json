@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanWildCat/Photos/AfricanWildCatTrans01.imageset/AfricanWildCatTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    443.44444444444446, 
+                    74.75213675213675
+                ], 
+                [
+                    599, 
+                    257
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 470, 
+    "imageWidth": 600
+}

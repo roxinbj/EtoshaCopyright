@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/WhiteRhino/Photos/WhiteRhinoTrans01.imageset/WhiteRhinoTrans04.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    340.6015037593985, 
+                    104.57142857142856
+                ], 
+                [
+                    595.4887218045112, 
+                    468.4812030075188
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 474, 
+    "imageWidth": 600
+}

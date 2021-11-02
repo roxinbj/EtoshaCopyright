@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CapePorcupine/Photos/CapePorcupine02.imageset/CapePorcupine02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    45.86466165413533, 
+                    40.08270676691728
+                ], 
+                [
+                    357.1428571428571, 
+                    246.09774436090225
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 337, 
+    "imageWidth": 600
+}

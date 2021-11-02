@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/RockDassie/Photos/RockDassie02.imageset/RockDassie02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    289.4736842105263, 
+                    121.21052631578945
+                ], 
+                [
+                    532.3308270676691, 
+                    267.0751879699248
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    318.796992481203, 
+                    137.0
+                ], 
+                [
+                    410.52631578947364, 
+                    220.45864661654133
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

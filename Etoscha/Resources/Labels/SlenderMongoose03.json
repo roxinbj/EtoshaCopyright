@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/SlenderMongoose/Photos/SlenderMongoose03.imageset/SlenderMongoose03.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    24.06015037593985, 
+                    12.68421052631578
+                ], 
+                [
+                    413, 
+                    399
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

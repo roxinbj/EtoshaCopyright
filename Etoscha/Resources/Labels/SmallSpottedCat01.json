@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/SmallSpottedCat/Photos/SmallSpottedCat01.imageset/SmallSpottedCat01.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    182.70676691729324, 
+                    36.744360902255636
+                ], 
+                [
+                    463.9097744360902, 
+                    349.52631578947364
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    242.85714285714283, 
+                    69.82706766917292
+                ], 
+                [
+                    389.4736842105263, 
+                    212.68421052631578
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

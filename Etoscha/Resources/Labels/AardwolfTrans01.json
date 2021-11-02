@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Aardwolf/Photos/AardwolfTrans01.imageset/AardwolfTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    358.8290598290599, 
+                    2.914529914529915
+                ], 
+                [
+                    568.2307692307693, 
+                    258.4700854700855
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 540, 
+    "imageWidth": 600
+}

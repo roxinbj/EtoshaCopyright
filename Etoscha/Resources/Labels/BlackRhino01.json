@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BlackRhino/Photos/BlackRhino01.imageset/BlackRhino01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    21.052631578947366, 
+                    1.7218045112781937
+                ], 
+                [
+                    594.7368421052631, 
+                    335.5563909774436
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

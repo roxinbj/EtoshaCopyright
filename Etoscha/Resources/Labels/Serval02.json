@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Serval/Photos/Serval02.imageset/Serval02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    119.96103896103898, 
+                    49.64935064935065
+                ], 
+                [
+                    412.16883116883116, 
+                    356.1428571428571
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 900, 
+    "imageWidth": 600
+}

@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CommonWarthog/Photos/CommonWarthog02.imageset/CommonWarthog02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    0.7518796992481203, 
+                    70.77443609022556
+                ], 
+                [
+                    599, 
+                    378
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 445, 
+    "imageWidth": 600
+}

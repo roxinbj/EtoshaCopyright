@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Steenbok/Photos/Steenbok04.imageset/Steenbok04.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    224.06015037593983, 
+                    79.85714285714286
+                ], 
+                [
+                    518.796992481203, 
+                    368.57894736842104
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

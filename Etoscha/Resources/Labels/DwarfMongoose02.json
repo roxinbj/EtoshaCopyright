@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/DwarfMongoose/Photos/DwarfMongoose02.imageset/DwarfMongoose02.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    57.14285714285714, 
+                    26.21804511278195
+                ], 
+                [
+                    515.7894736842105, 
+                    325.4661654135338
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 401, 
+    "imageWidth": 600
+}

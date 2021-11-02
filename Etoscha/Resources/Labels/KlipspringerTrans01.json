@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/Klipspringer/Photos/KlipspringerTrans01.imageset/KlipspringerTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    331.1967213114754, 
+                    3.918032786885246
+                ], 
+                [
+                    478.7377049180328, 
+                    163.75409836065575
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 568, 
+    "imageWidth": 600
+}

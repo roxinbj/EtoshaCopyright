@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/CommonDuiker/Photos/CommonDuikerTrans03.imageset/CommonDuikerTrans03.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    198.09523809523807, 
+                    236.09523809523807
+                ], 
+                [
+                    0, 
+                    5
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 657, 
+    "imageWidth": 600
+}

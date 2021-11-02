@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/BurchellsZebra/Photos/BurchellsZebra01.imageset/BurchellsZebra01.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    38.34586466165413, 
+                    65.3157894736842
+                ], 
+                [
+                    581.203007518797, 
+                    345.0150375939849
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}

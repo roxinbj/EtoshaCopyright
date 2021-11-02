@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/AfricanElephant/Photos/AfricanElephant01.imageset/AfricanElephant01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    30.623931623931625, 
+                    81.4871794871795
+                ], 
+                [
+                    587.8888888888889, 
+                    339.60683760683764
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

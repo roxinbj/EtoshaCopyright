@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/YellowMongoose/Photos/YellowMongoose06.imageset/YellowMongooseTrans02.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    30.82706766917293, 
+                    5.481203007518786
+                ], 
+                [
+                    509.77443609022555, 
+                    343.0751879699248
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 349, 
+    "imageWidth": 600
+}

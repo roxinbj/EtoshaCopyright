@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>703287882146-1a6i8q8oi54a47llofnk1juos0s35o8n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.703287882146-1a6i8q8oi54a47llofnk1juos0s35o8n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAU4QVa534kQ3FJT7ub8Jz6B5G7LpW3CM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>703287882146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.termite-software.EtoschaApp</string>
+	<key>PROJECT_ID</key>
+	<string>etoshaapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>etoshaapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:703287882146:ios:623b2265c167c7500b02fb</string>
+</dict>
+</plist>

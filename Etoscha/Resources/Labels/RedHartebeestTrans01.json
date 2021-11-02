@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/RedHartebeest/Photos/RedHartebeestTrans01.imageset/RedHartebeestTrans01.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    387.7281553398058, 
+                    14.475728155339805
+                ], 
+                [
+                    599, 
+                    339
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 669, 
+    "imageWidth": 600
+}

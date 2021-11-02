@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Mammals.xcassets/Lion/Photos/Lion012.imageset/Lion012.jpg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    127.5, 
+                    44.22222222222222
+                ], 
+                [
+                    546.9444444444445, 
+                    794.2222222222223
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    184.44444444444446, 
+                    74.77777777777779
+                ], 
+                [
+                    510.83333333333337, 
+                    434.5
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 960, 
+    "imageWidth": 640
+}

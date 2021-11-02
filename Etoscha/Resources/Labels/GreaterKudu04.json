@@ -1,0 +1,26 @@
+{
+    "imagePath": "../Mammals.xcassets/GreaterKudu/Photos/GreaterKudu04.imageset/GreaterKudu04.png", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    74.4360902255639, 
+                    24.969924812030072
+                ], 
+                [
+                    537.593984962406, 
+                    344.51879699248116
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 397, 
+    "imageWidth": 600
+}

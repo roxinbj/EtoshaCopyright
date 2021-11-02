@@ -1,0 +1,42 @@
+{
+    "imagePath": "../Photos/Aardvark02.jpeg", 
+    "imageData": "", 
+    "shapes": [
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    93.6896551724138, 
+                    32.758620689655174
+                ], 
+                [
+                    554.896551724138, 
+                    372.4137931034483
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "CA"
+        }, 
+        {
+            "shape_type": "rectangle", 
+            "points": [
+                [
+                    124.72413793103449, 
+                    44.82758620689657
+                ], 
+                [
+                    341.1034482758621, 
+                    355.1724137931035
+                ]
+            ], 
+            "flags": {}, 
+            "group_id": null, 
+            "label": "Face"
+        }
+    ], 
+    "version": "4.5.9", 
+    "flags": {}, 
+    "imageHeight": 400, 
+    "imageWidth": 600
+}
